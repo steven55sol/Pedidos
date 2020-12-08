@@ -1,0 +1,49 @@
+body{
+    background-color: #222;
+}
+form{
+    width: 400px;
+    height: 400px;
+    background-color: #333;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 30px auto;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: monospace;
+}
+
+label{
+    color: #fff;
+    padding: 5px 0px;
+    font-size: 20px;
+}
+
+select{
+    padding: 5px;
+}
+
+input{
+    padding: 5px;
+}
+
+.btn{
+    width: 200px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 18px;
+    font-family: monospace;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+p{
+    width: 50%;
+    color: #fff;
+    font-size: 20px;
+    margin: 5px 140px ;
+}
